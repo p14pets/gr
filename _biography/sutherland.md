@@ -5,7 +5,6 @@ image_url: /images/sutherland.jpg
 caption: "O Ivan Sutherland άλλαξε τον τρόπο αλληλεπίδρασης με τους υπολογιστές δημιουργώντας γραφικό περιβάλλον σχεδίασης και εισαγωγής δεδομένων σε αυτούς, κάνωντας και την αρχή για μια νέα εποχή, αυτη της εικονικής πραγματικότητας"
 categories:
   - biography
-  - definition
 tags:
   - Ivan Sutherland
   - Sketchpad
