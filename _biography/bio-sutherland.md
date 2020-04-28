@@ -6,7 +6,7 @@
 
 Από το 1968 έως το 1974 ο Sutherland ήταν αναπληρωτής καθηγητής ηλεκτρολογίας στο πανεπιστήμιο του Harvard. Το 1967 μαζί με τον φοιτητή Danny Cohen αναπτύσσουν έναν αλγόριθμο αποκοπής γραμμής (Cohen–Sutherland computer graphics line clipping algorithm), ενώ το 1968 μαζί με φοιτητές την πρώτη συσκευή εικονικής πραγματικότητας, μια συσκευή για το κεφάλι η οποία έδειχνε εικόνες στον χρήστη ανάλογα με την κατεύθυνση  που κοιτάει.
 
-Από το 1968 έως το 1974 ο Sutherland ήταν καθηγητής στο πανεπιστήμιο της Utah. Μερικοί από τους φοιτητές του ήταν ο Alan Kay, o Gordon W. Romney, o Henri Gouraud, o Frank Crow, o Jim Clark και ο Edwin Catmull.
+Από το 1968 έως το 1974 ο Sutherland ήταν καθηγητής στο πανεπιστήμιο της Utah. Μερικοί από τους φοιτητές του ήταν ο [Alan Kay](https://p14pets-gr.netlify.app/biography/alan-kay/), o Gordon W. Romney, o Henri Gouraud, o Frank Crow, o Jim Clark και ο Edwin Catmull.
 
 Το 1968 μαζί με τον David C. Evans ιδρύουν την εταιρία Evans & Sutherland η οποία δούλευε κυρίως πάνω στα τρισδιάστατα γραφικά.
 Το 2006 παντρεύτηκε την Marly Roncken. Οι δυο τους είναι επικεφαλής της έρευνας για τα ασύγχρονα συστήματα στο πανεπιστήμιο του Portland.
