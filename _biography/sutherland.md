@@ -11,7 +11,7 @@ tags:
   - Sketchpad
   - Computer graphics
 gallery:
-  - image_url: /images/sketchpad.jpg
+  - image_url: /images/sketchpad-s.jpg
     caption: "Το sketchpad Θεωρείται ο πρόγονος του σημερινού CAD"
   - image_url: /images/sutherland.jpg
 ---
