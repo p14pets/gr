@@ -9,7 +9,7 @@ categories:
 tags:
   - Ivan Sutherland
   - Sketchpad
-  - computer graphics
+  - Computer graphics
 gallery:
   - image_url: /images/sketchpad.jpg
     caption: "Το sketchpad Θεωρείται ο πρόγονος του σημερινού CAD"
